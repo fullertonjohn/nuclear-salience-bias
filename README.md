@@ -2,7 +2,7 @@
 
 **Goal**
 
-This project investigates the drivers of public interest in nuclear energy in the United States, testing the relative impact of economic incentives (electricity prices) and information shocks / salience bias frmo the Fukushima Daiichi nuclear disaster.
+This project investigates the drivers of public interest in nuclear energy in the United States, testing the relative impact of economic incentives (electricity prices) and information shocks / salience bias from the Fukushima Daiichi nuclear disaster.
 
 **Data Sources**
 
